@@ -1,2 +1,3 @@
 # hallow-world
-this is announce
+this is a announcment
+writed by crazyKing
